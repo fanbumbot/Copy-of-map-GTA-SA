@@ -29,6 +29,6 @@ https://gnr-samp.ucoz.ru/load/samp/fs/redaktor_gruppy_obektov_remarion/4-1-0-462
 
 
 
-Company [Gn_R] , July 2021 ã.
+Company [Gn_R] , July 2021 yr.
 Fanbumbot[ScDrift]
 ( https://github.com/fanbumbot )
