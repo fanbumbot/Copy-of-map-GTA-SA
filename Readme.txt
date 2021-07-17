@@ -1,3 +1,5 @@
+Copy of Map GTA SA - list of objects (dynamic, streamers) to pawno (SA-MP).
+
 /map2 - teleport to copy of map GTA-SA
 
 Copy of GTA-SA contains the main objects of the ENTIRE map
